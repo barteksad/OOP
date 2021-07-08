@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "/home/bartek/Downloads/gson-2.8.6.jar",
+        "/home/bartek/Desktop/UW/PO/Wybory/lib/junit-platform-console-standalone-1.8.0-M1.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src",
+        ""
+    ]
+}
